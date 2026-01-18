@@ -4,7 +4,7 @@ A python based script built to help you choose your next watch when you have a p
 
 ---
 ## Install
-[Executable file for Linux](https://github.com/TochkaIco/random-watch/blob/dist/main)
+[Executable file for Linux](https://github.com/TochkaIco/random-watch/tree/main/dist)
 
 ---
 ### Dev Environment Setup (Linux)
