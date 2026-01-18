@@ -2,7 +2,12 @@
 
 A python based script built to help you choose your next watch when you have a pile of shows to watch.
 
-### Setup (Linux)
+---
+## Install
+[Executable file for Linux](https://github.com/TochkaIco/random-watch/blob/main)
+
+---
+### Dev Environment Setup (Linux)
 ```commandline
 $ git clone https://github.com/TochkaIco/random-watch.git
 $ cd random-watch
@@ -10,7 +15,7 @@ $ python3 -m venv .venv
 $ source .venv/bin/activat
 $ pip install -r requirements.txt
 ```
-### Setup (Windows)
+### Dev Environment Setup (Windows)
 ```commandline
 $ git clone https://github.com/TochkaIco/random-watch.git
 $ cd random-watch
@@ -23,11 +28,11 @@ $ pip install -r requirements.txt
 ```commandline
 $ python3 main.py
 ```
-
+---
 📂 Project Structure
 
     main.py: The core logic
 
     requirements.txt: List of dependencies.
-
+---
 ⚖️ MIT License
