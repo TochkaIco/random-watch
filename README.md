@@ -24,6 +24,11 @@ $ .venv\Scripts\activate
 $ pip install -r requirements.txt
 ```
 
+### Compiling
+```commandline
+$ pyinstaller --onefile --collect-all pyfiglet --collect-all requests main.py
+```
+
 ### Usage
 ```commandline
 $ python3 main.py
