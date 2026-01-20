@@ -1,10 +1,10 @@
 # **Random Watch**
 
-A python based script built to help you choose your next watch when you have a pile of shows to watch.
+A python based script built to help you choose your next watch when you have a pile of shows to watch. There are 2 different scripts, one of which can find the score and a link to the show if it's an anime listed on MyAnimeList.
 
 ---
 ## Install
-[Executable file for Linux](https://github.com/TochkaIco/random-watch/tree/main/dist)
+[Executables file for Linux](https://github.com/TochkaIco/random-watch/tree/main/dist)
 
 ---
 ### Dev Environment Setup (Linux)
@@ -31,7 +31,9 @@ $ python3 main.py
 ---
 📂 Project Structure
 
-    main.py: The core logic
+    main.py: The core logic of the original script
+    
+    main_anime.py: The core logic of the anime related script
 
     requirements.txt: List of dependencies.
 ---
